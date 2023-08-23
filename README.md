@@ -1,1 +1,1 @@
-# foundations-landing-page
+I'm mid-way through The Odin Project and I'm at the point where I'm asked to complete a landing page assignment according to some reference data that they are providing. This repo is where the completed page will go.
