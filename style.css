@@ -42,7 +42,7 @@ a, .supporting-text {
 
 .hero {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     gap: 25px;
 }
 
@@ -59,12 +59,12 @@ a, .supporting-text {
     color: #F9FAF8;
 }
 
-.sign-up {
+.get-quote-button {
     background-color: #3882F6;
     font-size: 14px;
     font-weight: bold;
-    max-width: 100px;
-    padding: 8px 22px 8px 22px;
+    max-width: 150px;
+    padding: 10px 25px 10px 20px;
     border: none;
     border-radius: 8px;
     color: #F9FAF8;
@@ -109,6 +109,7 @@ a, .supporting-text {
 
 .quote-section {
     color: #1F2937;
+    font-weight: lighter;
     background-color: #E5E7EB;
     height: 350px;
     display: flex;
@@ -118,9 +119,7 @@ a, .supporting-text {
 .quote-content {
     max-width: 1000px;
     margin: 0 auto;
-    font-family: "Inter";
     font-size: 36px;
-    font-weight: lighter;
     color: #1F2937;  
 }
 
